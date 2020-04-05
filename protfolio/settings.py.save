@@ -1,4 +1,3 @@
-
 """
 Django settings for protfolio project.
 
@@ -26,7 +25,7 @@ SECRET_KEY = '1_6ebsy60%+jm_jsekvm@5u6-x!-+z=7g_rompg(aql=wz1!aj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS =['127.0.0.1', 'localhost','178.62.52.23']
+ALLOWED_HOSTS =['127.0.0.1', 'localhost',' You may need to add 'devourers.after.blue      ' to ALLOWED_HOST]
 
 
 # Application definition
